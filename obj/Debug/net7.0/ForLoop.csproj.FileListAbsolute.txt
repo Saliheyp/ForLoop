@@ -1,0 +1,15 @@
+D:\Patika\ForLoop\bin\Debug\net7.0\ForLoop.exe
+D:\Patika\ForLoop\bin\Debug\net7.0\ForLoop.deps.json
+D:\Patika\ForLoop\bin\Debug\net7.0\ForLoop.runtimeconfig.json
+D:\Patika\ForLoop\bin\Debug\net7.0\ForLoop.dll
+D:\Patika\ForLoop\bin\Debug\net7.0\ForLoop.pdb
+D:\Patika\ForLoop\obj\Debug\net7.0\ForLoop.csproj.AssemblyReference.cache
+D:\Patika\ForLoop\obj\Debug\net7.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\ForLoop\obj\Debug\net7.0\ForLoop.AssemblyInfoInputs.cache
+D:\Patika\ForLoop\obj\Debug\net7.0\ForLoop.AssemblyInfo.cs
+D:\Patika\ForLoop\obj\Debug\net7.0\ForLoop.csproj.CoreCompileInputs.cache
+D:\Patika\ForLoop\obj\Debug\net7.0\ForLoop.dll
+D:\Patika\ForLoop\obj\Debug\net7.0\refint\ForLoop.dll
+D:\Patika\ForLoop\obj\Debug\net7.0\ForLoop.pdb
+D:\Patika\ForLoop\obj\Debug\net7.0\ForLoop.genruntimeconfig.cache
+D:\Patika\ForLoop\obj\Debug\net7.0\ref\ForLoop.dll
